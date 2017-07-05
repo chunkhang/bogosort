@@ -4,7 +4,8 @@ An implementation of the infamous [bogosort](https://en.wikipedia.org/wiki/Bogos
 
 ## Note
 
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png | width=200) <br/>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="200px"> </img>
+<br/>
 bogosort requires [Python 3](http://www.diveintopython3.net/installing-python.html).
 
 ## Instructions
