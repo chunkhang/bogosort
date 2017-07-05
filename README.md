@@ -10,11 +10,11 @@ bogosort requires [Python 3](http://www.diveintopython3.net/installing-python.ht
 
 ## Instructions
 
-Everything is in one file: [bogosort.py](https://raw.githubusercontent.com/chunkhang/bogosort/master/bogosort.py)
+Everything is in one file: [bogosort.py](https://raw.githubusercontent.com/chunkhang/bogosort/master/src/bogosort.py)
 
 ```sh
 # Download
-$ curl -O https://raw.githubusercontent.com/chunkhang/bogosort/master/bogosort.py
+$ curl -O https://raw.githubusercontent.com/chunkhang/bogosort/master/src/bogosort.py
 # Run
 $ python -B bogosort.py
 ```

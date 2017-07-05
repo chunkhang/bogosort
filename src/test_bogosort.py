@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-import sys; sys.path.append('../bogosort')
-from bogosort import bogosort
+import bogosort
 
 def test_prompt_numbers_valid(capfd, monkeypatch):
 	for i in ['1 2', '1 2 3', '10 4 50  1', '1  1 1   1']:
